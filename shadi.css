@@ -83,7 +83,7 @@
 }
 .datee{width:80%;
     height: auto;
-    background-color: rgb(175, 186, 236);
+    background-color: rgb(220, 223, 238);
     border-radius: 20px;
     margin-top: 20px;
     display: flex;
@@ -127,7 +127,7 @@
 .us{
     width:80%;
     height: auto;
-    background-color: rgb(175, 186, 236);
+    background-color: rgb(220, 223, 238);
     border-radius: 20px;
     margin-top: 20px;
     display: flex;
@@ -164,7 +164,7 @@
 .venue{
     width:80%;
     height: auto;
-    background-color: rgb(175, 186, 236);
+    background-color: rgb(220, 223, 238);
     border-radius: 20px;
     margin-top: 20px;
     display: flex;
@@ -191,7 +191,7 @@
 .party{
     width:80%;
     height: auto;
-    background-color:rgb(175, 186, 236);
+    background-color:rgb(220, 223, 238);
     border-radius: 20px;
     margin-top: 20px;
     display: flex;
