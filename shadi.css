@@ -214,6 +214,11 @@
     line-height: 30px;
     color:#333;
 }
+.countdown{
+    color: rgb(85, 48, 48);
+    font-size: 57px;
+    font-weight: 400px;
+}
 footer{
     width:100%;
     height: auto;
@@ -232,4 +237,3 @@ footer i{
     font-size: 30px;
     margin-left: 20px;
 }
-
